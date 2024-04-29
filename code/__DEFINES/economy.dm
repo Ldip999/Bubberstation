@@ -22,7 +22,7 @@
 ///The coefficient for the amount of dosh that's collected everytime some is earned or received.
 #define DEBT_COLLECTION_COEFF 0.75
 
-#define MAX_GRANT_DPT 500
+#define MAX_GRANT_DPT 1000
 
 //What should vending machines charge when you buy something in-department.
 #define DEPARTMENT_DISCOUNT 0.2
