@@ -1,6 +1,7 @@
 /datum/surgery/blood_filter
 	name = "Filter blood"
 	possible_locs = list(BODY_ZONE_CHEST)
+	surgery_flags = SURGERY_REQUIRE_RESTING | SURGERY_SELF_OPERABLE
 	steps = list(
 		/datum/surgery_step/incise,
 		/datum/surgery_step/retract_skin,
