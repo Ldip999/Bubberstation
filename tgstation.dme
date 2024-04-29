@@ -6210,6 +6210,8 @@
 #include "interface\fonts\spess_font.dm"
 #include "interface\fonts\tiny_unicode.dm"
 #include "interface\fonts\vcr_osd_mono.dm"
+#include "modular_newhome\code\game\objects\items\storage\reagent_pouch.dm"
+#include "modular_newhome\modules\cargo\code\packs.dm"
 #include "modular_skyrat\master_files\code\_globalvars\configuration.dm"
 #include "modular_skyrat\master_files\code\_globalvars\regexes.dm"
 #include "modular_skyrat\master_files\code\_globalvars\religion.dm"
