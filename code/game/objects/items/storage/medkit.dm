@@ -433,6 +433,8 @@
 		/obj/item/reagent_containers/pill,
 		/obj/item/food/bait/natural,
 	))
+	atom_storage.max_slots = 50
+	atom_storage.max_total_storage = 50
 
 /obj/item/storage/pill_bottle/suicide_act(mob/living/user)
 	user.visible_message(span_suicide("[user] is trying to get the cap off [src]! It looks like [user.p_theyre()] trying to commit suicide!"))
