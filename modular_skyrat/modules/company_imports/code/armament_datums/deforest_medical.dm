@@ -9,23 +9,23 @@
 
 /datum/armament_entry/company_import/deforest/first_aid_kit/civil_defense
 	item_type = /obj/item/storage/medkit/civil_defense/stocked
-	cost = PAYCHECK_COMMAND * 4
+	cost = 100
 
 /datum/armament_entry/company_import/deforest/first_aid_kit/frontier
 	item_type = /obj/item/storage/medkit/frontier/stocked
-	cost = PAYCHECK_COMMAND * 5
+	cost = 300
 
 /datum/armament_entry/company_import/deforest/first_aid_kit/combat_surgeon
 	item_type = /obj/item/storage/medkit/combat_surgeon/stocked
-	cost = PAYCHECK_COMMAND * 6
+	cost = 500
 
 /datum/armament_entry/company_import/deforest/first_aid_kit/first_responder
 	item_type = /obj/item/storage/backpack/duffelbag/deforest_surgical/stocked
-	cost = PAYCHECK_COMMAND * 10
+	cost = 750
 
 /datum/armament_entry/company_import/deforest/first_aid_kit/orange_satchel
 	item_type = /obj/item/storage/backpack/duffelbag/deforest_medkit/stocked
-	cost = PAYCHECK_COMMAND * 15
+	cost = 1250
 
 // Basic first aid supplies like gauze, sutures, mesh, so on
 
@@ -60,13 +60,14 @@
 
 /datum/armament_entry/company_import/deforest/medpens
 	subcategory = "Medical Autoinjectors"
-	cost = PAYCHECK_COMMAND * 1.5
+	cost = 50
 
 /datum/armament_entry/company_import/deforest/medpens/occuisate
 	item_type = /obj/item/reagent_containers/hypospray/medipen/deforest/occuisate
 
 /datum/armament_entry/company_import/deforest/medpens/morpital
 	item_type = /obj/item/reagent_containers/hypospray/medipen/deforest/morpital
+	cost = 25
 
 /datum/armament_entry/company_import/deforest/medpens/lipital
 	item_type = /obj/item/reagent_containers/hypospray/medipen/deforest/lipital
