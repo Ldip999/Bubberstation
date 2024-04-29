@@ -4,9 +4,9 @@ SUBSYSTEM_DEF(economy)
 	init_order = INIT_ORDER_ECONOMY
 	runlevels = RUNLEVEL_GAME
 	///How many paychecks should players start out the round with?
-	var/roundstart_paychecks = 5
+	var/roundstart_paychecks = 10
 	///How many credits does the in-game economy have in circulation at round start? Divided up by 6 of the 7 department budgets evenly, where cargo starts with nothing.
-	var/budget_pool = 35000
+	var/budget_pool = 60000
 	var/list/department_accounts = list(ACCOUNT_CIV = ACCOUNT_CIV_NAME,
 										ACCOUNT_ENG = ACCOUNT_ENG_NAME,
 										ACCOUNT_SCI = ACCOUNT_SCI_NAME,
@@ -23,7 +23,7 @@ SUBSYSTEM_DEF(economy)
 	var/full_ancap = FALSE
 
 	/// Departmental cash provided to science when a node is researched in specific configs.
-	var/techweb_bounty = 250
+	var/techweb_bounty = 500
 	/**
 	  * List of normal (no department ones) accounts' identifiers with associated datum accounts, for big O performance.
 	  * A list of sole account datums can be obtained with flatten_list(), another variable would be redundant rn.
