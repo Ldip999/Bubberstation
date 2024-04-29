@@ -39,7 +39,7 @@
 
 //Smite. Can longer gib and just kills you and yeets you an insane distance.
 
-/datum/spellbook_entry/disintegrate
+/*/datum/spellbook_entry/disintegrate
 	name = "Lesser Smite"
 	desc = "Charges your hand with an unholy energy, causing a touched victim to instantly die and their corpse flung a great distance."
 
@@ -62,7 +62,7 @@
 
 	victim.death(FALSE)
 
-	return TRUE
+	return TRUE*/
 
 // Laughter Demon. They're basically hugboxed slaughter demons (hence the name), but are still really powerful.
 // While you're basically put in gay baby jail until it's killed, it's not TOO bad, but it should still be limited to 1.
