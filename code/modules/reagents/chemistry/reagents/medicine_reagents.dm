@@ -343,7 +343,7 @@
 	metabolization_rate = 0.4 * REAGENTS_METABOLISM
 	ph = 2.6
 	chemical_flags = REAGENT_CAN_BE_SYNTHESIZED|REAGENT_AFFECTS_WOUNDS
-	metabolized_traits = list(TRAIT_ANALGESIA)
+	metabolized_traits = list(TRAIT_ANALGESIA, TRAIT_NOSOFTCRIT)
 
 /datum/reagent/medicine/mine_salve/on_mob_life(mob/living/carbon/affected_mob, seconds_per_tick, times_fired)
 	. = ..()
@@ -648,7 +648,7 @@
 	ph = 8.96
 	chemical_flags = REAGENT_CAN_BE_SYNTHESIZED
 	addiction_types = list(/datum/addiction/opioids = 10)
-	metabolized_traits = list(TRAIT_ANALGESIA)
+	metabolized_traits = list(TRAIT_ANALGESIA, TRAIT_NOSOFTCRIT)
 
 /datum/reagent/medicine/morphine/on_mob_metabolize(mob/living/affected_mob)
 	. = ..()
@@ -1417,7 +1417,7 @@
 	name = "Muscle Stimulant"
 	description = "A potent chemical that allows someone under its influence to be at full physical ability even when under massive amounts of pain."
 	chemical_flags = REAGENT_CAN_BE_SYNTHESIZED|REAGENT_NO_RANDOM_RECIPE
-	metabolized_traits = list(TRAIT_ANALGESIA)
+	metabolized_traits = list(TRAIT_ANALGESIA, TRAIT_NOSOFTCRIT)
 
 /datum/reagent/medicine/muscle_stimulant/on_mob_metabolize(mob/living/affected_mob)
 	. = ..()
