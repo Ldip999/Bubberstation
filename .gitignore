@@ -247,3 +247,10 @@ define_sanity_output.txt
 # ezdb
 /db/
 /config/ezdb.txt
+config/config.txt
+config/config.txt
+config/dbconfig.txt
+config/dynamic.json
+config/game_options.txt
+config/maps.txt
+config/motd.txt
