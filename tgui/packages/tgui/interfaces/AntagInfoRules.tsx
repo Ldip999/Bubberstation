@@ -19,9 +19,9 @@ export const Rules = (props) => {
           <Stack.Item bold>Special Rules:</Stack.Item>
           <Stack.Item>
             {
-              <a href="https://wiki.bubberstation.org/index.php?title=Rules">
+              /* <a href="https://wiki.bubberstation.org/index.php?title=Rules">
                 Special Rules and Metaprotections!
-              </a>
+              </a>*/
             }
           </Stack.Item>
         </Stack>
@@ -34,9 +34,9 @@ export const Rules = (props) => {
           <Stack.Item bold>Special Rules:</Stack.Item>
           <Stack.Item>
             {
-              <a href="https://wiki.bubberstation.org/index.php?title=Rules">
+              /* <a href="https://wiki.bubberstation.org/index.php?title=Rules">
                 Special Rules and Metaprotections!
-              </a>
+              </a>*/
             }
           </Stack.Item>
         </Stack>
@@ -49,9 +49,9 @@ export const Rules = (props) => {
           <Stack.Item bold>Special Rules:</Stack.Item>
           <Stack.Item>
             {
-              <a href="https://wiki.bubberstation.org/index.php?title=Rules">
+              /* <a href="https://wiki.bubberstation.org/index.php?title=Rules">
                 Special Rules and Metaprotections!
-              </a>
+              </a>*/
             }
           </Stack.Item>
         </Stack>
@@ -64,9 +64,9 @@ export const Rules = (props) => {
           <Stack.Item bold>Special Rules:</Stack.Item>
           <Stack.Item>
             {
-              <a href="https://wiki.bubberstation.org/index.php?title=Rules">
+              /* <a href="https://wiki.bubberstation.org/index.php?title=Rules">
                 Special Rules and Metaprotections!
-              </a>
+              </a>*/
             }
           </Stack.Item>
         </Stack>
@@ -79,9 +79,9 @@ export const Rules = (props) => {
           <Stack.Item bold>Special Rules:</Stack.Item>
           <Stack.Item>
             {
-              <a href="https://wiki.bubberstation.org/index.php?title=Rules">
+              /* <a href="https://wiki.bubberstation.org/index.php?title=Rules">
                 Special Rules and Metaprotections!
-              </a>
+              </a>*/
             }
           </Stack.Item>
         </Stack>
@@ -94,9 +94,9 @@ export const Rules = (props) => {
           <Stack.Item bold>Special Rules:</Stack.Item>
           <Stack.Item>
             {
-              <a href="https://wiki.bubberstation.org/index.php?title=Rules">
+              /* <a href="https://wiki.bubberstation.org/index.php?title=Rules">
                 Special Rules and Metaprotections!
-              </a>
+              </a>*/
             }
           </Stack.Item>
         </Stack>
@@ -109,9 +109,9 @@ export const Rules = (props) => {
           <Stack.Item bold>Special Rules:</Stack.Item>
           <Stack.Item>
             {
-              <a href="https://wiki.bubberstation.org/index.php?title=Rules">
+              /* <a href="https://wiki.bubberstation.org/index.php?title=Rules">
                 Special Rules and Metaprotections!
-              </a>
+              </a>*/
             }
           </Stack.Item>
         </Stack>
@@ -124,9 +124,9 @@ export const Rules = (props) => {
           <Stack.Item bold>Special Rules:</Stack.Item>
           <Stack.Item>
             {
-              <a href="https://wiki.bubberstation.org/index.php?title=Rules">
+              /* <a href="https://wiki.bubberstation.org/index.php?title=Rules">
                 Special Rules and Metaprotections!
-              </a>
+              </a>*/
             }
           </Stack.Item>
         </Stack>
@@ -139,9 +139,9 @@ export const Rules = (props) => {
           <Stack.Item bold>Special Rules:</Stack.Item>
           <Stack.Item>
             {
-              <a href="https://wiki.bubberstation.org/index.php?title=Rules">
+              /* <a href="https://wiki.bubberstation.org/index.php?title=Rules">
                 Special Rules and Metaprotections!
-              </a>
+              </a>*/
             }
           </Stack.Item>
         </Stack>
@@ -154,9 +154,9 @@ export const Rules = (props) => {
           <Stack.Item bold>Special Rules:</Stack.Item>
           <Stack.Item>
             {
-              <a href="https://wiki.bubberstation.org/index.php?title=Rules">
+              /* <a href="https://wiki.bubberstation.org/index.php?title=Rules">
                 Special Rules and Metaprotections!
-              </a>
+              </a>*/
             }
           </Stack.Item>
         </Stack>
@@ -168,9 +168,9 @@ export const Rules = (props) => {
           <Stack.Item bold>Special Rules:</Stack.Item>
           <Stack.Item>
             {
-              <a href="https://wiki.bubberstation.org/index.php?title=Rules">
+              /* <a href="https://wiki.bubberstation.org/index.php?title=Rules">
                 Special Rules and Metaprotections!
-              </a>
+              </a>*/
             }
           </Stack.Item>
         </Stack>
@@ -182,9 +182,9 @@ export const Rules = (props) => {
           <Stack.Item bold>Special Rules:</Stack.Item>
           <Stack.Item>
             {
-              <a href="https://wiki.bubberstation.org/index.php?title=Rules">
+              /* <a href="https://wiki.bubberstation.org/index.php?title=Rules">
                 Special Rules and Metaprotections!
-              </a>
+              </a>*/
             }
           </Stack.Item>
         </Stack>
@@ -196,9 +196,9 @@ export const Rules = (props) => {
           <Stack.Item bold>Special Rules:</Stack.Item>
           <Stack.Item>
             {
-              <a href="https://wiki.bubberstation.org/index.php?title=Rules">
+              /* <a href="https://wiki.bubberstation.org/index.php?title=Rules">
                 Special Rules and Metaprotections!
-              </a>
+              </a>*/
             }
           </Stack.Item>
         </Stack>
@@ -210,9 +210,9 @@ export const Rules = (props) => {
           <Stack.Item bold>Special Rules:</Stack.Item>
           <Stack.Item>
             {
-              <a href="https://wiki.bubberstation.org/index.php?title=Rules">
+              /* <a href="https://wiki.bubberstation.org/index.php?title=Rules">
                 Special Rules and Metaprotections!
-              </a>
+              </a>*/
             }
           </Stack.Item>
         </Stack>
@@ -224,9 +224,9 @@ export const Rules = (props) => {
           <Stack.Item bold>Special Rules:</Stack.Item>
           <Stack.Item>
             {
-              <a href="https://wiki.bubberstation.org/index.php?title=Rules">
+              /* <a href="https://wiki.bubberstation.org/index.php?title=Rules">
                 Special Rules and Metaprotections!
-              </a>
+              </a>*/
             }
           </Stack.Item>
         </Stack>
@@ -238,9 +238,9 @@ export const Rules = (props) => {
           <Stack.Item bold>Special Rules:</Stack.Item>
           <Stack.Item>
             {
-              <a href="https://wiki.bubberstation.org/index.php?title=Rules">
+              /* <a href="https://wiki.bubberstation.org/index.php?title=Rules">
                 Special Rules and Metaprotections!
-              </a>
+              </a>*/
             }
           </Stack.Item>
         </Stack>
@@ -252,9 +252,9 @@ export const Rules = (props) => {
           <Stack.Item bold>Special Rules:</Stack.Item>
           <Stack.Item>
             {
-              <a href="https://wiki.bubberstation.org/index.php?title=Rules">
+              /* <a href="https://wiki.bubberstation.org/index.php?title=Rules">
                 Special Rules and Metaprotections!
-              </a>
+              </a>*/
             }
           </Stack.Item>
         </Stack>
@@ -266,9 +266,9 @@ export const Rules = (props) => {
           <Stack.Item bold>Special Rules:</Stack.Item>
           <Stack.Item>
             {
-              <a href="https://wiki.bubberstation.org/index.php?title=Rules">
+              /* <a href="https://wiki.bubberstation.org/index.php?title=Rules">
                 Special Rules and Metaprotections!
-              </a>
+              </a>*/
             }
           </Stack.Item>
         </Stack>
@@ -280,9 +280,9 @@ export const Rules = (props) => {
           <Stack.Item bold>Special Rules:</Stack.Item>
           <Stack.Item>
             {
-              <a href="https://wiki.bubberstation.org/index.php?title=Rules">
+              /* <a href="https://wiki.bubberstation.org/index.php?title=Rules">
                 Special Rules and Metaprotections!
-              </a>
+              </a>*/
             }
           </Stack.Item>
         </Stack>
