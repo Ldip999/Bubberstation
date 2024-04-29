@@ -25,7 +25,7 @@
 #define MAX_GRANT_DPT 1000
 
 //What should vending machines charge when you buy something in-department.
-#define DEPARTMENT_DISCOUNT 0.2
+#define DEPARTMENT_DISCOUNT 0
 
 #define ACCOUNT_CIV "CIV"
 #define ACCOUNT_CIV_NAME "Civil Budget"
