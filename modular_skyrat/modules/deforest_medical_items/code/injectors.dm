@@ -87,8 +87,7 @@
 	icon_state = "morpital"
 	list_reagents = list(
 		/datum/reagent/medicine/morphine = 5,
-		/datum/reagent/medicine/omnizine/protozine = 15,
-		/datum/reagent/toxin/staminatoxin = 5,
+		/datum/reagent/medicine/c2/libital = 15,
 	)
 
 // Lipital, heals more damage than morpital but doesnt work much at higher damages
@@ -100,8 +99,8 @@
 	icon_state = "lipital"
 	list_reagents = list(
 		/datum/reagent/medicine/lidocaine = 5,
-		/datum/reagent/medicine/omnizine = 5,
-		/datum/reagent/medicine/c2/probital = 10,
+		/datum/reagent/medicine/c2/libital = 10,
+		/datum/reagent/medicine/c2/probital = 5,
 	)
 
 // Anti-poisoning injector, with a little bit of radiation healing as a treat
