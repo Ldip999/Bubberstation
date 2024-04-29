@@ -89,9 +89,7 @@
 	if(inner)
 		. += image("modular_newhome/icons/reagent_canister.dmi", src, "+[icon_state]_loaded")
 
-/obj/item/storage/pouch/pressurized_reagent_pouch/AltClick(mob/user)
-	if(!remove_canister(user))
-		return ..()
+
 
 ///Attempts to remove the reagent canister from the pouch. Returns FALSE if there is no canister to remove
 /obj/item/storage/pouch/pressurized_reagent_pouch/proc/remove_canister(mob/user)

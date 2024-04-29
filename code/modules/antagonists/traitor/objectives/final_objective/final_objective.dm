@@ -2,7 +2,7 @@
 	name = "Final Objective"
 	objectives = list(
 		/datum/traitor_objective/ultimate/battlecruiser = 1,
-		/datum/traitor_objective/ultimate/space_dragon = 1,
+		///datum/traitor_objective/ultimate/space_dragon = 1,
 		/datum/traitor_objective/ultimate/supermatter_cascade = 1,
 		/datum/traitor_objective/ultimate/infect_ai = 1,
 		/*New home edit
