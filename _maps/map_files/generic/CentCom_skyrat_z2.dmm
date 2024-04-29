@@ -4372,13 +4372,8 @@
 /turf/open/misc/dirt/planet,
 /area/centcom/holding/cafepark)
 "blI" = (
-/obj/structure/window/reinforced/spawner/directional/east,
-/obj/structure/window/reinforced/spawner/directional/south,
-/obj/structure/closet/crate/bin,
-/obj/item/reagent_containers/cup/glass/coffee_cup,
-/obj/item/reagent_containers/cup/glass/coffee_cup,
-/obj/item/reagent_containers/cup/glass/coffee_cup,
-/turf/open/floor/iron,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/wood/large,
 /area/centcom/interlink)
 "bnI" = (
 /obj/structure/table/wood,
@@ -5026,6 +5021,10 @@
 /obj/structure/alien/weeds/node,
 /turf/open/misc/dirt/planet,
 /area/centcom/holding/cafepark)
+"clj" = (
+/obj/machinery/chem_dispenser/drinks/fullupgrade,
+/turf/open/floor/wood/tile,
+/area/centcom/interlink)
 "clF" = (
 /obj/structure/chair/sofa/corp/left{
 	dir = 8
@@ -6159,6 +6158,12 @@
 	},
 /turf/open/indestructible/cobble,
 /area/centcom/holding/cafepark)
+"eoq" = (
+/obj/effect/light_emitter/interlink,
+/obj/machinery/microwave,
+/obj/structure/table,
+/turf/open/floor/wood/large,
+/area/centcom/interlink)
 "epr" = (
 /obj/structure/chair/sofa/left/brown,
 /turf/open/floor/wood,
@@ -6240,20 +6245,11 @@
 /turf/open/floor/iron,
 /area/centcom/interlink)
 "ezk" = (
-/obj/structure/table{
-	name = "Jim Norton's Quebecois Coffee table"
-	},
-/obj/item/coffee_cartridge/decaf{
-	pixel_y = 10
-	},
-/obj/item/coffee_cartridge/decaf{
-	pixel_y = 6
-	},
-/obj/item/coffee_cartridge/fancy,
 /obj/machinery/status_display/shuttle{
 	pixel_y = 32;
 	shuttle_id = "arrivals_shuttle"
 	},
+/obj/machinery/vending/boozeomat,
 /turf/open/floor/iron,
 /area/centcom/interlink)
 "eAc" = (
@@ -7087,6 +7083,24 @@
 "geG" = (
 /turf/open/floor/iron/stairs,
 /area/centcom/holding/cafepark)
+"gfk" = (
+/obj/effect/turf_decal/weather/dirt,
+/obj/effect/light_emitter/interlink,
+/obj/machinery/griddle,
+/obj/item/food/raw_sausage{
+	pixel_x = -10
+	},
+/obj/item/food/raw_sausage{
+	pixel_x = 8
+	},
+/obj/item/food/raw_sausage{
+	pixel_y = 9
+	},
+/obj/item/food/raw_sausage{
+	pixel_y = -9
+	},
+/turf/open/floor/wood/large,
+/area/centcom/interlink)
 "gfW" = (
 /obj/structure/sign/directions/security{
 	dir = 8;
@@ -7404,7 +7418,6 @@
 /turf/open/floor/iron,
 /area/centcom/interlink)
 "gKe" = (
-/obj/structure/window/reinforced/spawner/directional/south,
 /obj/structure/table{
 	name = "Jim Norton's Quebecois Coffee table"
 	},
@@ -7598,6 +7611,11 @@
 /area/centcom/holding/cafepark)
 "hcR" = (
 /turf/open/floor/wood/parquet,
+/area/centcom/interlink)
+"hdh" = (
+/obj/effect/light_emitter/interlink,
+/obj/structure/closet/secure_closet/freezer/meat,
+/turf/open/floor/wood/large,
 /area/centcom/interlink)
 "hds" = (
 /obj/structure/table,
@@ -8205,8 +8223,12 @@
 /turf/open/floor/wood/tile,
 /area/centcom/interlink)
 "iel" = (
-/obj/effect/turf_decal/skyrat_decals/misc/handicapped,
-/turf/open/floor/wood/tile,
+/obj/machinery/processor{
+	pixel_y = 12
+	},
+/obj/structure/table/reinforced,
+/obj/effect/light_emitter/interlink,
+/turf/open/floor/wood/large,
 /area/centcom/interlink)
 "iem" = (
 /obj/effect/light_emitter/interlink,
@@ -9692,6 +9714,21 @@
 	},
 /turf/closed/indestructible/weeb,
 /area/centcom/holding/cafe)
+"kJZ" = (
+/obj/effect/light_emitter/interlink,
+/obj/structure/table/reinforced,
+/obj/item/food/bun,
+/obj/item/food/bun{
+	pixel_y = 5
+	},
+/obj/item/food/bun{
+	pixel_y = 9
+	},
+/obj/item/food/bun{
+	pixel_y = 14
+	},
+/turf/open/floor/wood/large,
+/area/centcom/interlink)
 "kKo" = (
 /obj/machinery/computer/records/security{
 	dir = 8
@@ -10190,6 +10227,13 @@
 /obj/effect/landmark/start/assaultop,
 /turf/open/floor/catwalk_floor/iron_smooth,
 /area/cruiser_dock)
+"lzL" = (
+/obj/effect/light_emitter/interlink,
+/obj/structure/chair/wood{
+	dir = 1
+	},
+/turf/open/misc/dirt/planet,
+/area/centcom/interlink)
 "lAd" = (
 /obj/effect/turf_decal/siding/thinplating_new/dark{
 	dir = 1
@@ -10540,16 +10584,6 @@
 "mfN" = (
 /obj/structure/table{
 	name = "Jim Norton's Quebecois Coffee table"
-	},
-/obj/machinery/door/window/left/directional/south{
-	name = "Coffee Counter"
-	},
-/obj/item/reagent_containers/cup/glass/coffee_cup{
-	pixel_x = -5;
-	pixel_y = 12
-	},
-/obj/item/reagent_containers/cup/glass/coffee_cup{
-	pixel_y = 4
 	},
 /turf/open/floor/iron,
 /area/centcom/interlink)
@@ -12076,6 +12110,13 @@
 	},
 /turf/open/floor/iron,
 /area/centcom/holding/cafe)
+"oCB" = (
+/obj/effect/turf_decal/weather/dirt,
+/obj/effect/light_emitter/interlink,
+/obj/structure/table,
+/obj/item/reagent_containers/cup/soda_cans/skyrat/lemonade,
+/turf/open/floor/wood/large,
+/area/centcom/interlink)
 "oCU" = (
 /obj/effect/turf_decal/weather/dirt{
 	dir = 1
@@ -12612,12 +12653,13 @@
 	},
 /area/centcom/holding/cafepark)
 "pxW" = (
-/obj/effect/turf_decal/siding/wood{
-	dir = 8
-	},
 /obj/machinery/light/warm/directional/north,
-/obj/effect/turf_decal/skyrat_decals/misc/handicapped,
-/turf/open/floor/wood/tile,
+/obj/structure/window/reinforced/spawner/directional/east,
+/obj/structure/table{
+	name = "Jim Norton's Quebecois Coffee table"
+	},
+/obj/machinery/chem_dispenser/drinks/fullupgrade,
+/turf/open/floor/iron,
 /area/centcom/interlink)
 "pzq" = (
 /obj/structure/curtain/cloth/fancy/mechanical{
@@ -13253,6 +13295,18 @@
 	pixel_y = 6
 	},
 /obj/item/coffee_cartridge/bootleg,
+/obj/item/coffee_cartridge/fancy,
+/obj/item/coffee_cartridge/decaf{
+	pixel_y = 6
+	},
+/obj/item/coffee_cartridge/decaf{
+	pixel_y = 10
+	},
+/obj/item/reagent_containers/cup/glass/bottle/juice/cream,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/milk,
+/obj/item/reagent_containers/condiment/soymilk,
+/obj/item/reagent_containers/condiment/soymilk,
 /turf/open/floor/iron,
 /area/centcom/interlink)
 "qrK" = (
@@ -13366,10 +13420,10 @@
 /turf/open/floor/plating/abductor,
 /area/centcom/holding/cafepark)
 "qDc" = (
-/obj/machinery/door/window/left/directional/south{
-	name = "Coffee Counter"
-	},
 /obj/machinery/duct,
+/obj/structure/table{
+	name = "Jim Norton's Quebecois Coffee table"
+	},
 /turf/open/floor/iron,
 /area/centcom/interlink)
 "qDk" = (
@@ -14852,16 +14906,10 @@
 	},
 /area/centcom/holding/cafepark)
 "sWb" = (
-/obj/structure/window/reinforced/spawner/directional/east,
-/obj/structure/closet/secure_closet/freezer/empty{
-	name = "milk freezer"
+/obj/structure/table{
+	name = "Jim Norton's Quebecois Coffee table"
 	},
-/obj/item/reagent_containers/condiment/milk,
-/obj/item/reagent_containers/condiment/milk,
-/obj/item/reagent_containers/condiment/soymilk,
-/obj/item/reagent_containers/condiment/soymilk,
-/obj/item/reagent_containers/cup/glass/bottle/juice/cream,
-/obj/item/reagent_containers/cup/glass/bottle/juice/cream,
+/obj/machinery/chem_dispenser/drinks/beer/fullupgrade,
 /turf/open/floor/iron,
 /area/centcom/interlink)
 "sXR" = (
@@ -15864,6 +15912,13 @@
 /obj/effect/turf_decal/siding/white,
 /turf/open/floor/iron,
 /area/centcom/interlink)
+"uRs" = (
+/obj/structure/window/reinforced/spawner/directional/east,
+/obj/structure/table{
+	name = "Jim Norton's Quebecois Coffee table"
+	},
+/turf/open/floor/iron,
+/area/centcom/interlink)
 "uSQ" = (
 /obj/structure/table/reinforced,
 /obj/machinery/chem_dispenser/drinks,
@@ -15999,6 +16054,13 @@
 "vat" = (
 /obj/effect/light_emitter/interlink,
 /turf/open/floor/grass,
+/area/centcom/interlink)
+"vaw" = (
+/obj/effect/turf_decal/weather/dirt,
+/obj/effect/light_emitter/interlink,
+/obj/structure/table,
+/obj/item/reagent_containers/condiment/ketchup,
+/turf/open/floor/wood/large,
 /area/centcom/interlink)
 "vaB" = (
 /obj/machinery/door/airlock/hatch{
@@ -16747,6 +16809,11 @@
 	dir = 4
 	},
 /turf/open/floor/iron/white,
+/area/centcom/interlink)
+"wBy" = (
+/obj/effect/light_emitter/interlink,
+/obj/machinery/oven/range,
+/turf/open/floor/wood/large,
 /area/centcom/interlink)
 "wBI" = (
 /obj/effect/turf_decal/siding/white/corner{
@@ -24777,10 +24844,10 @@ vat
 vat
 hbE
 eSk
-vat
-vat
-dVb
-iPs
+kJZ
+blI
+vaw
+lzL
 iPs
 cmV
 oyI
@@ -25034,10 +25101,10 @@ vat
 vat
 hbE
 vat
-vat
-vat
-dVb
-iPs
+hdh
+blI
+gfk
+lzL
 iPs
 iPs
 iPs
@@ -25291,10 +25358,10 @@ vat
 vat
 hbE
 vat
-sGU
-vat
-dVb
-iPs
+iel
+blI
+oCB
+lzL
 iPs
 iPs
 iPs
@@ -25548,10 +25615,10 @@ cNw
 fHV
 hbE
 vat
-vat
-vat
-dVb
-iPs
+wBy
+blI
+oCB
+lzL
 iPs
 qot
 nKJ
@@ -25805,10 +25872,10 @@ vat
 vat
 tUk
 bjq
-vat
-vat
-dVb
-iPs
+eoq
+blI
+oCB
+lzL
 iPs
 dfL
 fHV
@@ -28127,8 +28194,8 @@ jsY
 wAE
 tvw
 sWb
-rOf
-blI
+hvQ
+mfN
 lVL
 olE
 olE
@@ -28384,8 +28451,8 @@ aXG
 hmE
 tvw
 pxW
-hPK
-hPK
+rOf
+uRs
 cRs
 pST
 sIH
@@ -28640,8 +28707,8 @@ dPx
 aXG
 hmE
 tvw
-pST
-iel
+olE
+olE
 olE
 olE
 pST
@@ -30696,7 +30763,7 @@ hPK
 hPK
 hPK
 cRs
-olE
+clj
 olE
 fYY
 olE
